@@ -138,7 +138,7 @@ To maintain **full automation**, we mark these as **UNSEEN** and collect their b
 | PXJ | User | `9a4e4211f7e690ee4a520c491ef7766dcf1cc9859afa991e15538e92b435f3a1` | [Link](https://bazaar.abuse.ch/sample/9a4e4211f7e690ee4a520c491ef7766dcf1cc9859afa991e15538e92b435f3a1/) |
 | Raccoonstealer | User | `0d148218983f96167795e70053b0960d5a501a30b3c45e626e9228af49af2248` | [Link](https://bazaar.abuse.ch/sample/0d148218983f96167795e70053b0960d5a501a30b3c45e626e9228af49af2248/) |
 | Rancoz | User | `c22faf6ed4029051f2138c49cc95ee6f1e55923c28ddff660d404ab79be0f062` | [Link](https://bazaar.abuse.ch/sample/c22faf6ed4029051f2138c49cc95ee6f1e55923c28ddff660d404ab79be0f062/) |
-| Ransom | User | `4cae449450c07b7aa74314173c7b00d409eabfe22b86859f3b3acedd66010458` | [Link](https://bazaar.abuse.ch/sample/4cae449450c07b7aa74314173c7b00d409eabfe22b86859f3b3acedd66010458/) |
+| RansomEXX | User | `4cae449450c07b7aa74314173c7b00d409eabfe22b86859f3b3acedd66010458` | [Link](https://bazaar.abuse.ch/sample/4cae449450c07b7aa74314173c7b00d409eabfe22b86859f3b3acedd66010458/) |
 | Ransomware | User | `f110528a354648070a7ef4cbc43046ca427adced8aad6c936bdc9e8932e01225` | [Link](https://bazaar.abuse.ch/sample/f110528a354648070a7ef4cbc43046ca427adced8aad6c936bdc9e8932e01225/) |
 | Rapid | User | `7d98972d5c78e1d4969da76856d6818942b606c267efa67fd31d39ae77497e9c` | [Link](https://bazaar.abuse.ch/sample/7d98972d5c78e1d4969da76856d6818942b606c267efa67fd31d39ae77497e9c/) |
 | Redtrace | User | `1f18d3407038bcd985ff480be2c729b4fd33c36bbffd8bcfb18574ee24b100a9` | [Link](https://bazaar.abuse.ch/sample/1f18d3407038bcd985ff480be2c729b4fd33c36bbffd8bcfb18574ee24b100a9/) |
