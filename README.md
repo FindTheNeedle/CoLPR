@@ -120,7 +120,7 @@ To maintain **full automation**, we mark these as **UNSEEN** and collect their b
 | Luka | User | '30390db8ef77afdb6add86f7f2990a142823401078ab237020933d0423374b27' | [Link](https://bazaar.abuse.ch/sample/30390db8ef77afdb6add86f7f2990a142823401078ab237020933d0423374b27/) |
 | Lynx | User | 'b378b7ef0f906358eec595777a50f9bb5cc7bb6635e0f031d65b818a26bdc4ee' | [Link](https://bazaar.abuse.ch/sample/b378b7ef0f906358eec595777a50f9bb5cc7bb6635e0f031d65b818a26bdc4ee/) |
 | Makop | User | 'aaf7bb9ad358726ca367f1827686dc15fea925f26ab1e201a2768c67472e8890' | [Link](https://bazaar.abuse.ch/sample/aaf7bb9ad358726ca367f1827686dc15fea925f26ab1e201a2768c67472e8890/) |
-| Mallox | User | '06699c98ed2ef759b2434ac5777a2886b966c0ffa1c96c046f5cde77fe833784' | [Link](https://bazaar.abuse.ch/sample/06699c98ed2ef759b2434ac5777a2886b966c0ffa1c96c046f5cde77fe833784   /) |
+| Mallox | User | '06699c98ed2ef759b2434ac5777a2886b966c0ffa1c96c046f5cde77fe833784' | [Link](https://bazaar.abuse.ch/sample/06699c98ed2ef759b2434ac5777a2886b966c0ffa1c96c046f5cde77fe833784/) |
 | Mammon | User | 'f5ed57e822e8d236cda4e4547f2d9af2caa9fb37e90406ee6dd253d014fcd8a9' | [Link](https://bazaar.abuse.ch/sample/f5ed57e822e8d236cda4e4547f2d9af2caa9fb37e90406ee6dd253d014fcd8a9/) |
 | Mespinoza | User | 'af99b482eb0b3ff976fa719bf0079da15f62a6c203911655ed93e52ae05c4ac8' | [Link](https://bazaar.abuse.ch/sample/af99b482eb0b3ff976fa719bf0079da15f62a6c203911655ed93e52ae05c4ac8/) |
 | Mimic | User | '2423f6e4b6f015042c4de4a4ad457629b7c4737ec19352abac9dd6136ba46d68' | [Link](https://bazaar.abuse.ch/sample/2423f6e4b6f015042c4de4a4ad457629b7c4737ec19352abac9dd6136ba46d68/) |
@@ -153,15 +153,15 @@ To maintain **full automation**, we mark these as **UNSEEN** and collect their b
 | Wargame | User | '5bd7bc629a9433583ca8e836776d3d7b0a14fb85ec17e5594ecc1f612bc1e9e6' | [Link](https://bazaar.abuse.ch/sample/5bd7bc629a9433583ca8e836776d3d7b0a14fb85ec17e5594ecc1f612bc1e9e6/) |
 | Xorist | User | '6269c641b9c51dc32fec94cc0dc0f7116b1686eec750bd1297133844419cfea1' | [Link](https://bazaar.abuse.ch/sample/6269c641b9c51dc32fec94cc0dc0f7116b1686eec750bd1297133844419cfea1/) |
 | Yatron | User | '7910b3f3a04644d12b8e656aa4934c59a4e3083a2a9c476bf752dc54192c255b' | [Link](https://bazaar.abuse.ch/sample/7910b3f3a04644d12b8e656aa4934c59a4e3083a2a9c476bf752dc54192c255b/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
-| Koxic | User | 'd2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333' | [Link](https://bazaar.abuse.ch/sample/d2203b6d272d44b7abc66e290c3b79767428168b077a16ded1db0babbe34f333/) |
+| Badrabbit | Super | '630325cac09ac3fab908f903e3b00d0dadd5fdaa0875ed8496fcbb97a558d0da' | [Link](https://bazaar.abuse.ch/sample/630325cac09ac3fab908f903e3b00d0dadd5fdaa0875ed8496fcbb97a558d0da/) |
+| Bazek| Super | '2b17ed4a6cb47f0c38e7d21aec4dc0db0df9369506faf6ba60239431c9ec677a' | [Link](https://bazaar.abuse.ch/sample/2b17ed4a6cb47f0c38e7d21aec4dc0db0df9369506faf6ba60239431c9ec677a/) |
+| Blackcat | Super | 'df8d000833243acc0004595b3a8d4b66fcd7b76d8685d5c2ff61ee2a40a0e92c' | [Link](https://bazaar.abuse.ch/sample/df8d000833243acc0004595b3a8d4b66fcd7b76d8685d5c2ff61ee2a40a0e92c/) |
+| CABP | Super | '42c15f08acda9e26c6745c3d12418280c49a3524846a547e3125a665cb4e5d2b' | [Link](https://bazaar.abuse.ch/sample/42c15f08acda9e26c6745c3d12418280c49a3524846a547e3125a665cb4e5d2b/) |
+| D0glun | Super | '114e869e698af6c1dcd02f869f59790a7a629f157c712c1e77a81c7d3d26b071' | [Link](https://bazaar.abuse.ch/sample/114e869e698af6c1dcd02f869f59790a7a629f157c712c1e77a81c7d3d26b071/) |
+| Heodo | Super | '6ba0bfb9532c802cfa8abb9884ace2fa917b13a11731f5a16a6ca581a966b4c3' | [Link](https://bazaar.abuse.ch/sample/6ba0bfb9532c802cfa8abb9884ace2fa917b13a11731f5a16a6ca581a966b4c3/) |
+| LegionLocker | Super | '369a4f163bf5552d238f52607c828c105645d29d6f2446363cdfec118f9ea412' | [Link](https://bazaar.abuse.ch/sample/369a4f163bf5552d238f52607c828c105645d29d6f2446363cdfec118f9ea412/) |
+| Lockergoga | Super | '12454a323dec0a56a23cd5215bb335d7842c85bbf38e3bd696c9237e26454388' | [Link](https://bazaar.abuse.ch/sample/12454a323dec0a56a23cd5215bb335d7842c85bbf38e3bd696c9237e26454388/) |
+| PythonStealer | Super | '780e60564ca393fc50a3c260d3fd2478496096a88fad22f649967b1dc4def97c' | [Link](https://bazaar.abuse.ch/sample/780e60564ca393fc50a3c260d3fd2478496096a88fad22f649967b1dc4def97c/) |
+| Ranzylocker | Super | '0db6f0721b23aba59852382dad8042be26832c7bb182d79f4734e17da3bcd5ee' | [Link](https://bazaar.abuse.ch/sample/0db6f0721b23aba59852382dad8042be26832c7bb182d79f4734e17da3bcd5ee/) |
+| Schoolboy | Super | 'ce9dc508a6ad12c8db0e79628cad2414af846c86ab8d8b9be69636f0285784c0' | [Link](https://bazaar.abuse.ch/sample/ce9dc508a6ad12c8db0e79628cad2414af846c86ab8d8b9be69636f0285784c0/) |
+| Voidcrypt | Super | 'c17cdbbe0510b57010199556384f6bba3e08fbc8dd99904ba226b9d476eb9f21' | [Link](https://bazaar.abuse.ch/sample/c17cdbbe0510b57010199556384f6bba3e08fbc8dd99904ba226b9d476eb9f21/) |
