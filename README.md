@@ -164,4 +164,4 @@ To maintain **full automation**, we mark these as **UNSEEN** and collect their b
 | PythonStealer | Super | `780e60564ca393fc50a3c260d3fd2478496096a88fad22f649967b1dc4def97c` | [Link](https://bazaar.abuse.ch/sample/780e60564ca393fc50a3c260d3fd2478496096a88fad22f649967b1dc4def97c/) |
 | Ranzylocker | Super | `0db6f0721b23aba59852382dad8042be26832c7bb182d79f4734e17da3bcd5ee` | [Link](https://bazaar.abuse.ch/sample/0db6f0721b23aba59852382dad8042be26832c7bb182d79f4734e17da3bcd5ee/) |
 | Schoolboy | Super | `ce9dc508a6ad12c8db0e79628cad2414af846c86ab8d8b9be69636f0285784c0` | [Link](https://bazaar.abuse.ch/sample/ce9dc508a6ad12c8db0e79628cad2414af846c86ab8d8b9be69636f0285784c0/) |
-| Voidcrypt | Super | 'c17cdbbe0510b57010199556384f6bba3e08fbc8dd99904ba226b9d476eb9f21` | [Link](https://bazaar.abuse.ch/sample/c17cdbbe0510b57010199556384f6bba3e08fbc8dd99904ba226b9d476eb9f21/) |
+| Voidcrypt | Super | `c17cdbbe0510b57010199556384f6bba3e08fbc8dd99904ba226b9d476eb9f21` | [Link](https://bazaar.abuse.ch/sample/c17cdbbe0510b57010199556384f6bba3e08fbc8dd99904ba226b9d476eb9f21/) |
