@@ -18,8 +18,8 @@ Ransomware has evolved into stealthy, system-level attacks that disguise malicio
 We present **CoLPR**, a contrastive self-supervised learning framework for **perturbation-resilient, system-wide ransomware detection**.
 
 Key contributions:
-1. **Perturbation-Resilient Representation Learning** – We propose a novel data augmentation strategy that produces strongly perturbed yet realistic behavioral data for training, enabling resilience against interference from other running applications.
-2. **Environment-Aware Fine-Tuning** – The learned encoder is adapted to specific deployment environments, achieving accurate detection even under multi-application interference.
+1. **Perturbation-Resilient Representation Learning** – We propose a novel data augmentation strategy that produces strongly perturbed yet realistic behavioral data for pre-training, enabling resilience against interference from other running applications.
+2. **Environment-Aware Fine-Tuning** – The pre-trained encoder is adapted to specific deployment environments, achieving accurate detection even under multi-application interference.
 3. **Timely Detection** – Across three real-world deployment environments, CoLPR achieved:
    - **100% Recall**
    - **4.58s average detection delay** (well within the 60-second short-term backup window)
